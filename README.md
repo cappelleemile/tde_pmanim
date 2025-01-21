@@ -1,30 +1,33 @@
-# Pauze Menu Telefoon Animatie  
-**Versie:** 1.0  
-**Prijs:** Gratis  
+# Pause Menu Phone Animation  
+**Version:** 1.0
 
-## Over dit script  
-Dit script voegt een realistische telefoonanimatie toe wanneer een speler het pauzemenu opent. Deze kleine, maar stijlvolle toevoeging zorgt voor een unieke en meeslepende ervaring op jouw FiveM-server.  
+## About this script  
+This script adds a realistic phone animation when a player opens the pause menu. This small yet stylish addition creates a unique and immersive experience on your FiveM server.  
 
-## Kenmerken  
-- **Realistische animatie:** Een telefoon verschijnt in de hand van de speler bij het openen van het pauzemenu.  
-- **Eenvoudig te gebruiken:** Geen installatiehandleiding nodig – gewoon drag & drop.  
-- **Geoptimaliseerd:** Lichtgewicht script dat geen invloed heeft op de prestaties van je server.  
-- **Gratis:** Helemaal gratis beschikbaar voor de community.  
+## Features  
+- **Realistic animation:** A phone appears in the player’s hand when they open the pause menu.  
+- **Easy to use:** No installation guide needed – just drag & drop.  
+- **Optimized:** Lightweight script that won’t impact your server's performance.  
+- **Free:** Completely free for the community.
 
-## Installatie  
-1. Download het script via de **[Releases-pagina](https://github.com/tdemods/tde_pmanim/releases)** van deze repository.  
-2. Sleep de map naar de `resources` map van je FiveM-server.  
-3. Voeg de volgende regel toe aan je `server.cfg`:
+## Preview  
+- **Video:** [Watch the preview](https://imgur.com/9Hq8ZCA.mp4)
+
+## Installation  
+1. Download the script from the **[Releases page](https://github.com/tdemods/tde_pmanim/releases)** of this repository.  
+2. Drag the folder into the `resources` folder of your FiveM server.  
+3. Add the following line to your `server.cfg`:
 
    ```plaintext
    ensure tde_pmanim
-4. Start of herstart je server.
+   ```  
+5. Start or restart your server.  
 
-## Ondersteuning
-Heb je hulp nodig of vragen over het script? Open een ticket via mijn Discord-server en ik help je graag verder: https://discord.gg/GwBegce9JJ
+## Support  
+Need help or have questions about the script? Open a ticket on my Discord server, and I’ll be happy to assist you: https://discord.gg/GwBegce9JJ  
 
-## Download
-Klik op Code > Download ZIP of ga naar de **[Releases-pagina](https://github.com/tdemods/tde_pmanim/releases)** om de nieuwste versie te downloaden.
+## Download  
+Click **Code > Download ZIP** or visit the **[Releases page](https://github.com/tdemods/tde_pmanim/releases)** to download the latest version.  
 
-## Licentie
-Dit script is gratis te gebruiken en te delen, maar herdistributie of verkoop is niet toegestaan.
+## License  
+This script is free to use and share, but redistribution or resale is not allowed.
