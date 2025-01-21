@@ -14,7 +14,7 @@ This script adds a realistic phone animation when a player opens the pause menu.
 - **Video:** [Watch the preview](https://imgur.com/9Hq8ZCA.mp4)
 
 ## Installation  
-1. Download the script from the **[Releases page](https://github.com/tdemods/tde_pmanim/releases)** of this repository.  
+1. Click **Code > Download ZIP** to download the script. 
 2. Drag the folder into the `resources` folder of your FiveM server.  
 3. Add the following line to your `server.cfg`:
 
@@ -27,7 +27,7 @@ This script adds a realistic phone animation when a player opens the pause menu.
 Need help or have questions about the script? Open a ticket on my Discord server, and I’ll be happy to assist you: https://discord.gg/GwBegce9JJ  
 
 ## Download  
-Click **Code > Download ZIP** or visit the **[Releases page](https://github.com/tdemods/tde_pmanim/releases)** to download the latest version.  
+Click **Code > Download ZIP** to download the latest version.
 
 ## License  
 This script is free to use and share, but redistribution or resale is not allowed.
