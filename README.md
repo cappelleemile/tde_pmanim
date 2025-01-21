@@ -1,5 +1,5 @@
 # Pause Menu Phone Animation  
-**Version:** 1.0
+**Version:** 1.0.0
 
 ## About this script  
 This script adds a realistic phone animation when a player opens the pause menu. This small yet stylish addition creates a unique and immersive experience on your FiveM server.  
